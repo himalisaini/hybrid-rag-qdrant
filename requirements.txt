@@ -1,0 +1,9 @@
+qdrant-client
+rank_bm25
+anthropic
+voyageai
+python-dotenv
+tiktoken
+tqdm
+tenacity
+ollama
